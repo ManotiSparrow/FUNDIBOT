@@ -5,7 +5,7 @@
 
 ## 🚀 Live Demo
 
-👉 [View on Netlify](https://sage-sherbet-8f9d1c.netlify.app/)
+👉 [View on Netlify] https://sage-sherbet-8f9d1c.netlify.app/
 ## 🧠 Features
 
 - 🔹 Interactive AI chatbot via Bolt AI
