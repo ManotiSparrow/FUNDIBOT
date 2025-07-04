@@ -1,7 +1,8 @@
 
 # 📦 FUNDIBOT
 
-**FUNDIBOT** is an AI-powered web application designed to assist users through a chatbot interface powered by Bolt AI. It combines a modern frontend built with React, Vite, and Tailwind CSS with a backend Node.js chatbot server. This project is structured to support scalable and responsive AI-driven interactions.
+**FUNDIBOT** is an AI-powered web application designed to assist users in find trusted
+fundis & freelancers near them. Connect with verified skilled professionals across Kenya. From plumbing to tutoring, get quality services delivered to your doorstep via WhatsApp.
 
 ## 🚀 Live Demo
 
