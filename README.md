@@ -89,3 +89,6 @@ Bolt AI configurations and prompts are located in the `.bolt/` folder. Ensure yo
 
 This project is open source and available under the [MIT License](LICENSE).
 
+## Interactive video link
+https://drive.google.com/file/d/1a2KQ4vUXsWlBcl2wie8Y17DAH4GLV4JK/view?usp=drivesdk 
+
